@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou a @AlineRMota
+- 👋 Olá, eu sou a Aline R Mota!
 - 👀 Eu estou procurando meu primeiro emprego/estágio.
 - 🌱 Eu atualmente estou estudando sobre HTML, CSS and JavaScript.
 - 📫 Como me encontrar: aliner.mota@hotmail.com
