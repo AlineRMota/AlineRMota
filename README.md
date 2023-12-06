@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Aline R Mota!
 - 👀 Eu estou procurando meu primeiro emprego/estágio.
-- 🌱 Eu atualmente estou estudando sobre HTML, CSS e JavaScript.
+- 🌱 Eu atualmente estou estudando sobre Ciência de Dados.
 - 📫 Como me encontrar: aliner.mota@hotmail.com
 
 <!---
