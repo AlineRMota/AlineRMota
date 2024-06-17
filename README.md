@@ -8,6 +8,8 @@
 - Eu estou procurando meu primeiro emprego/estágio.
   
 - Eu atualmente estou estudando sobre Ciência de Dados.
+
+- A Ciência de Dados foi uma descoberta fascinante enquanto eu navegava na internet. Devido à sua capacidade de tomar decisões baseadas em dados, tive vontade de cai de cabeça para este mundo.
   
 - Como me encontrar: aliner.mota@hotmail.com
 
