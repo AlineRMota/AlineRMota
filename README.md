@@ -9,7 +9,7 @@
   
 - Eu atualmente estou estudando sobre Ciência de Dados.
 
-- A Ciência de Dados foi uma descoberta fascinante enquanto eu navegava na internet. Devido à sua capacidade de tomar decisões baseadas em dados, tive vontade de cair de cabeça para este mundo.
+- A Ciência de Dados foi uma descoberta fascinante enquanto eu navegava na internet. Devido a sua capacidade de poder tomar decisões baseadas em dados, tive vontade de pular de cabeça para este mundo.
   
 - Como me encontrar: aliner.mota@hotmail.com
 
