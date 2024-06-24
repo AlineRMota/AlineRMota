@@ -9,7 +9,7 @@
   
 - Eu atualmente estou estudando sobre Ciência de Dados na FIAP.
 
-- A Ciência de Dados foi uma descoberta fascinante enquanto eu navegava na internet. Devido a sua capacidade de poder tomar decisões baseadas em dados, tive vontade de pular de cabeça para este mundo.
+- A Ciência de Dados foi uma descoberta fascinante enquanto eu navegava na internet. Devido a sua capacidade de poder tomar decisões baseadas em dados, tive vontade de pular de cabeça para este mundo!
   
 - Como me encontrar: aliner.mota@hotmail.com
 
