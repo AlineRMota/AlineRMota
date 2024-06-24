@@ -5,7 +5,7 @@
 <div align="center">
   RESUMO 
   
-- Eu estou procurando meu primeiro emprego/estágio.
+- Eu estou procurando meu primeiro emprego/estágio na área.
   
 - Eu atualmente estou estudando sobre Ciência de Dados na FIAP.
 
