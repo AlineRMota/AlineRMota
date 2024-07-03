@@ -5,8 +5,6 @@
 <div align="center">
   RESUMO
   
-- Eu estou migrando de carreira de Odontologia para Ciência de Dados. 
-  
 - Eu estou procurando meu primeiro emprego/estágio na área.
   
 - Eu atualmente estou estudando sobre Ciência de Dados na FIAP.
