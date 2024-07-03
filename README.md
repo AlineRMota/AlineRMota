@@ -3,7 +3,9 @@
 </h1>
 
 <div align="center">
-  RESUMO 
+  RESUMO
+  
+- Eu estou migrando de carreira de Odontologia para Ciência de Dados. 
   
 - Eu estou procurando meu primeiro emprego/estágio na área.
   
