@@ -5,9 +5,9 @@
 <div align="center">
   RESUMO
   
-- Eu estou procurando meu primeiro emprego/estágio na área.
-  
 - Eu sou dentista e atualmente estou estudando sobre Ciência de Dados na FIAP.
+
+- Eu estou procurando meu primeiro emprego/estágio na área.
 
 - A Ciência de Dados foi uma descoberta fascinante enquanto eu navegava na internet. Devido a sua capacidade de poder tomar decisões baseadas em dados, tive vontade de pular de cabeça para este mundo também!
   
