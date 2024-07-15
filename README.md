@@ -9,7 +9,7 @@
 
 - Acredito que minhas habilidades e experiência serão bem aplicadas na união dessas duas carreiras.
   
-- Como me encontrar: aliner.mota@hotmail.com
+- Como me encontrar: alinermota.dados@gmail.com
 
 </div>
 
