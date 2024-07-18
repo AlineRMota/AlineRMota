@@ -5,7 +5,9 @@
 <div align="center">
   RESUMO
   
-- Eu sou dentista e atualmente estou estudando sobre Ciência de Dados na FIAP.
+- Eu sou Cirurgiã-Dentista.
+
+- Atualmente estou estudando sobre Ciência de Dados na FIAP.
   
 - Como me encontrar: alinermota.dados@gmail.com
 
