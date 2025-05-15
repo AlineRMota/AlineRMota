@@ -11,7 +11,7 @@
 
 - Em 2024, eu iniciei meus estudos em Ciência de Dados pela FIAP (2024-2025).
 
-- Possuo experiência básica em SQL, Python, Machine Learning e Deep Learning.
+- Possuo experiência básica em IoT, SQL, Python, Machine Learning e Deep Learning.
 
 - Como me encontrar: aliner.mota@hotmail.com
 
