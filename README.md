@@ -19,11 +19,11 @@
 
 <div align="center"> 
 <div style="display: flex; gap: 10px;">
-  <a href="https://wa.me/5531998103119"target="blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"alt="WhatsApp">
+  <a href="https://wa.me/5531998103119" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="border: none;">
   </a>
-  <a href="https://www.linkedin.com/in/aline-rodrigues-mota"target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/aline-rodrigues-mota" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none;">
   </a>
 </div>
 
