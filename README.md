@@ -15,7 +15,7 @@
 
 - Como me encontrar: aliner.mota@hotmail.com
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png) LinkedIn](https://www.linkedin.com/in/aline-rodrigues-mota/)
+<a href="https://www.linkedin.com/in/seu-perfil/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: #0A66C2; font-weight: 600; font-family: Arial, sans-serif;"><img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="width:24px; height:24px; margin-right: 8px;"><span>LinkedIn</span></a>
   
   <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigada+pela+atenção!;+Volte+Sempre!" />
