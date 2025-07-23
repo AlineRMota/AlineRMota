@@ -9,7 +9,7 @@
 
 - Atuo desde 2015 no meu próprio consultório odontológico na área de Odontologia Estética e Preventiva.
 
-- Em 2024, eu iniciei meus estudos em Ciência de Dados (Data Science) pela FIAP (2024-2025).
+- Em 2024, eu iniciei meus estudos em Data Science (Ciência de Dados) pela FIAP (2024-2025).
 
 - Possuo experiência básica em SQL, Python, Machine Learning e Deep Learning.
 
