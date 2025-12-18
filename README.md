@@ -9,9 +9,8 @@
 
 - Atuei de 2015 a 2025 no meu próprio consultório odontológico na área de Clínica Geral, Prevenção e Odontologia Restauradora.
 
-- Em 2024, eu iniciei meus estudos em Data Science (Ciência de Dados) pela FIAP (2024-2025).
-
-- Possuo experiência básica em SQL, Python, Machine Learning e Deep Learning.
+- Em 2025, eu me formei em Ciência de Dados pela FIAP.
+Possuo experiência básica em SQL, Python, Machine Learning e Deep Learning.
 
 - Como me encontrar: aliner.mota@hotmail.com
 
