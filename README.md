@@ -7,7 +7,7 @@
   
 - Eu sou Cirurgiã-Dentista formada pela PUCMinas, em 2014. Pós-Graduada em Odontologia Estética também pela PUCMinas, em 2017 e especialista em Prótese Dentária pela UFMG, em 2018.
 
-- Atuo desde 2015 no meu próprio consultório odontológico na área de Odontologia Estética e Preventiva.
+- Atuei de 2015 a 2025 no meu próprio consultório odontológico na área de Clínica Geral, Prevenção e Odontologia Restauradora.
 
 - Em 2024, eu iniciei meus estudos em Data Science (Ciência de Dados) pela FIAP (2024-2025).
 
