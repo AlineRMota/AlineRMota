@@ -5,7 +5,7 @@
 <div align="center">
   RESUMO
   
-- Eu sou Cirurgiã-Dentista formada pela PUCMinas, em 2014. Pós-Graduada em Odontologia Estética também pela PUCMinas, em 2017 e especialista em Prótese Dentária pela UFMG, em 2018.
+- Eu sou Cirurgiã-Dentista formada pela PUCMinas, em 2014 e especialista em Prótese Dentária pela UFMG, em 2018.
 
 - Atuei de 2015 a 2025 no meu próprio consultório odontológico na área de Clínica Geral, Prevenção e Odontologia Restauradora.
 
