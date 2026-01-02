@@ -11,7 +11,7 @@
 
 - Em 2025, eu me formei em Ciência de Dados pela FIAP.
 
-- Possuo experiência básica em SQL, Python, Machine Learning e Deep Learning.
+- Possuo experiência básica em SQL, Python, R, Machine Learning e Deep Learning.
 
 - Como me encontrar: aliner.mota@hotmail.com
 
