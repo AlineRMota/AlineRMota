@@ -17,14 +17,9 @@
 
 <div align="center"><a href="https://www.linkedin.com/in/aline-rodrigues-mota" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoPosition=left&logoColor=white" alt="LinkedIn"></a></div>
 
-<h2 align="left"> ⭐️ Estatísticas</h2>
-
 ###
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlineRMota&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
