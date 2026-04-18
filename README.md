@@ -7,7 +7,7 @@
   
 - Eu sou formada em Odontologia pela PUCMinas, em 2014.
 
-- Atuei de 2015 a 2025 no meu próprio consultório odontológico na área de Clínica Geral, Prevenção e Odontologia Restauradora.
+- Atuei de 2015 a 2025 no meu próprio consultório odontológico.
 
 - Em 2025, eu me formei em Ciência de Dados pela FIAP.
 
