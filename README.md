@@ -11,7 +11,9 @@
 
 - Em 2025, eu me formei em Ciência de Dados pela FIAP.
 
-- Possuo experiência básica em SQL, Python, R, Power BI, Machine Learning e Deep Learning.
+- Realizei alguns projetos pessoais na área de análise de dados e como pesquisadora independente.
+
+- Possuo experiência em Excel, SQL, Python, R, Power BI e Machine Learning.
 
 - Como me encontrar: aliner.mota@hotmail.com
 
@@ -24,7 +26,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5NnQ0NnZ1dWd5dTFheTI2azA3aHVyZDQ2ZWNydzV0MjZ4dXVobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11BbGyhVmk4iLS/giphy.gif"  />
+  <img height="400" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhpeDN6emVrbzB3MjRrNWN5eG05Njg5MzhrOTNreW5zYmZ2dDR3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.gif"/>
 </div>
 
 ###
