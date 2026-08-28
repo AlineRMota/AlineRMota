@@ -11,9 +11,11 @@
 
 - Em 2025, eu me formei em Ciência de Dados pela FIAP.
 
-- Realizei alguns projetos pessoais na área de análise de dados e como pesquisadora independente.
+- Realizei alguns projetos pessoais na área de análise de dados.
 
 - Possuo experiência em Excel, SQL, Python, R, Power BI e Machine Learning.
+
+- Atualmente atuo como pesquisadora independente.
 
 - Como me encontrar: aliner.mota@hotmail.com
 
