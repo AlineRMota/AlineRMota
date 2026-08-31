@@ -15,7 +15,7 @@
 
 - Possuo experiência em Excel, SQL, Python, R, Power BI e Machine Learning.
 
-- Atualmente atuo como pesquisadora independente.
+- Atualmente atuo como pesquisadora na UFMG.
 
 - Como me encontrar: aliner.mota@hotmail.com
 
