@@ -11,7 +11,7 @@
 
 - Em 2025, eu me formei em Ciência de Dados pela FIAP.
 
-- Realizo alguns projetos pessoais na área de dados e IA.
+- Realizo alguns projetos pessoais na área de dados e IA/ML.
 
 - Possuo experiência em Excel, SQL, Python e Machine Learning.
 
