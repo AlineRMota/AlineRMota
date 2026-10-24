@@ -13,7 +13,7 @@
 
 - Realizo alguns projetos pessoais na área de dados e IA.
 
-- Possuo experiência em Excel, SQL, Python, Power BI e Machine Learning.
+- Possuo experiência em Excel, SQL, Python e Machine Learning.
 
 - Como me encontrar: aliner.mota@hotmail.com
 
